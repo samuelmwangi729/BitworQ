@@ -457,23 +457,25 @@
                         <div class="counter-content">
                             <div class="section-title">
                                 <div class="line"></div>
-                                <h3 class="title">Cool facts <span> about this app</span></h3>
+                                <h3 class="title">Manage Everything  <span> Under a Single Place</span></h3>
                             </div> <!-- section title -->
-                            <p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                            <p class="text">Get coordinated quality from demonstrated free experts and specific organizations since our moment 
+                                coordinating calculation creates a waitlist dependent on the measures you select as a customer who need an errand performed. 
+                                Effectively track venture achievements and progress toward the consummation of your employments..</p>
                         </div> <!-- counter content -->
                         <div class="row no-gutters">
                             <div class="col-4">
                                 <div class="single-counter counter-color-1 d-flex align-items-center justify-content-center">
                                     <div class="counter-items text-center">
                                         <span class="count"><span class="counter">125</span>K</span>
-                                        <p class="text">Downloads</p>
+                                        <p class="text">Visitors</p>
                                     </div>
                                 </div> <!-- single counter -->
                             </div>
                             <div class="col-4">
                                 <div class="single-counter counter-color-2 d-flex align-items-center justify-content-center">
                                     <div class="counter-items text-center">
-                                        <span class="count"><span class="counter">87</span>K</span>
+                                        <span class="count"><span class="counter">107</span>K</span>
                                         <p class="text">Active Users</p>
                                     </div>
                                 </div> <!-- single counter -->
@@ -481,7 +483,7 @@
                             <div class="col-4">
                                 <div class="single-counter counter-color-3 d-flex align-items-center justify-content-center">
                                     <div class="counter-items text-center">
-                                        <span class="count"><span class="counter">4.8</span></span>
+                                        <span class="count"><span class="counter">5</span></span>
                                         <p class="text">User Rating</p>
                                     </div>
                                 </div> <!-- single counter -->
@@ -507,7 +509,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="subscribe-content mt-45">
-                            <h2 class="subscribe-title">Subscribe Our Newsletter <span>get reguler updates</span></h2>
+                            <h2 class="subscribe-title">Subscribe Our Newsletter </h2>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -527,7 +529,9 @@
                             <a class="logo" href="#">
                                 <img src="assets/images/logo.svg" alt="logo">
                             </a>
-                            <p class="text">Lorem ipsum dolor sit amet consetetur sadipscing elitr, sederfs diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                            <p class="text">Rapidly create a waitlist of qualified specialists in different controls from around the world with our restrictive AI coordinating innovation. 
+                                With each shortlisted up-and-comer, you'll have the option to audit itemized profiles, portfolios, and customer surveys and appraisals so you can locate the 
+                                ideal counterpart for your task.</p>
                             <ul class="social">
                                 <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                                 <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
